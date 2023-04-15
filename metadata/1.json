@@ -1,0 +1,29 @@
+{
+    "name": "Astronaut #1",
+    "description": "Astronaut",
+    "image": "ipfs://QmVkMgDAKt5rM63eQMqxaBJQ6WHLXjkR3ptVvNMVWwGWLe",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "backpack",
+        "value": "green"
+      },
+      {
+        "trait_type": "face",
+        "value": "owo"
+      },
+      {
+        "trait_type": "mask",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "body",
+        "value": "red"
+      }
+      
+      
+    ]
+  }
