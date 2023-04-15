@@ -1,5 +1,5 @@
 {
-    "name": "Astronaut #10",
+    "name": "Astronaut #11",
     "description": "Astronaut",
     "image": "ipfs://QmVkMgDAKt5rM63eQMqxaBJQ6WHLXjkR3ptVvNMVWwGWLe",
     "attributes": [
@@ -13,7 +13,7 @@
       },
       {
         "trait_type": "face",
-        "value": "emberassed"
+        "value": "pokerface"
       },
       {
         "trait_type": "mask",

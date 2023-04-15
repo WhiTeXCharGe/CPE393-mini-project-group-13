@@ -1,15 +1,15 @@
 {
-    "name": "Astronaut #10",
+    "name": "Astronaut #18",
     "description": "Astronaut",
     "image": "ipfs://QmVkMgDAKt5rM63eQMqxaBJQ6WHLXjkR3ptVvNMVWwGWLe",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "red"
+        "value": "pink"
       },
       {
         "trait_type": "backpack",
-        "value": "orange"
+        "value": "yellow"
       },
       {
         "trait_type": "face",
@@ -17,11 +17,11 @@
       },
       {
         "trait_type": "mask",
-        "value": "blue"
+        "value": "red"
       },
       {
         "trait_type": "body",
-        "value": "green"
+        "value": "orange"
       }
       
       

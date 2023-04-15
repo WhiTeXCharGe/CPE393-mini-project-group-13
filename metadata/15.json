@@ -1,27 +1,27 @@
 {
-    "name": "Astronaut #10",
+    "name": "Astronaut #15",
     "description": "Astronaut",
     "image": "ipfs://QmVkMgDAKt5rM63eQMqxaBJQ6WHLXjkR3ptVvNMVWwGWLe",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "red"
+        "value": "pruple"
       },
       {
         "trait_type": "backpack",
-        "value": "orange"
+        "value": "red"
       },
       {
         "trait_type": "face",
-        "value": "emberassed"
+        "value": "pokerface"
       },
       {
         "trait_type": "mask",
-        "value": "blue"
+        "value": "green"
       },
       {
         "trait_type": "body",
-        "value": "green"
+        "value": "yellow"
       }
       
       
